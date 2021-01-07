@@ -41,3 +41,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+<style>
+  background-image: url('bg.jpg');
+}
+</style>
